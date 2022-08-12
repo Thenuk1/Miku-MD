@@ -10,10 +10,10 @@ global.antitags = true
 global.Owner = ['94778479127']
 global.OwnerNumber = ['94778479127']
 global.ownertag = ['94778479127']
-global.BotName = "Miku"
-global.packname = "Miku bot"
+global.BotName = "Miku bottz"
+global.packname = "code lyoko"
 global.author = "By: Fantox"
-global.OwnerName = "Fantox"
+global.OwnerName = "Thenuka"
 global.BotSourceCode = "https://github.com/FantoX001/Miku-MD"
 global.SupportGroupLink = "https://chat.whatsapp.com/JcBzjRIxM5UHfuJbt0KrWt"
 global.sessionName = "session"
@@ -24,7 +24,7 @@ global.prefa = ['./-']
 
 
 global.location = "Sri lanka,Ratinapura"
-global.reactmoji = "🐞"
+global.reactmoji = "🔯"
 global.themeemoji = "🕷"
 global.vidmenu = { url: 'https://c.tenor.com/YGuLegQWubwAAAPo/miku-nakano-gotoubun-no-hanayome.mp4' }
 global.websitex = "https://github.com/FantoX001"
