@@ -20,12 +20,12 @@ global.sessionName = "session"
 
 // Prefix //
 // If you want to change the prefix, change it and also change all switch's button id from Core.js  otherwise buttons will not work //
-global.prefa = ['.']
+global.prefa = ['-']
 		
 
 
 global.location = "Sri lanka,Ratinapura"
-global.reactmoji = "🔯"
+global.reactmoji = "🦅"
 global.themeemoji = "🕷"
 global.vidmenu = { url: 'https://c.tenor.com/YGuLegQWubwAAAPo/miku-nakano-gotoubun-no-hanayome.mp4' }
 global.websitex = "https://github.com/FantoX001"
