@@ -3,9 +3,9 @@ const chalk = require("chalk")
 
 global.available = true
 global.autoReadGc = true
-global.autoReadAll = fouls
+global.autoReadAll = true
 global.antitags = true
-
+global.automaticResend = true
 
 global.Owner = ['94778479127']
 global.OwnerNumber = ['94778479127']
@@ -29,7 +29,7 @@ global.reactmoji = "♥"
 global.themeemoji = "🎊"
 global.vidmenu = { url: 'https://c.tenor.com/YGuLegQWubwAAAPo/miku-nakano-gotoubun-no-hanayome.mp4' }
 global.websitex = "https://github.com/FantoX001"
-global.lolhuman = "KaysaS"
+global.lolhuman = "KaysuaS"
 
 
 global.BotLogo = fs.readFileSync("./Assets/pic1.jpg")
@@ -91,7 +91,7 @@ global.limitawal = {
 }
 global.limitawal = {
     rakyat: "Infinity",
-    free: 1000
+    free: 100
 }
 
 
