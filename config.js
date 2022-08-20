@@ -5,7 +5,6 @@ global.available = true
 global.autoReadGc = true
 global.autoReadAll = true
 global.antitags = true
-global.automaticResend = true
 
 global.Owner = ['94778479127']
 global.OwnerNumber = ['94778479127']
@@ -20,7 +19,7 @@ global.sessionName = "session"
 
 // Prefix //
 // If you want to change the prefix, change it and also change all switch's button id from Core.js  otherwise buttons will not work //
-global.prefa = ['.']
+global.prefa = ['-']
 		
 
 
