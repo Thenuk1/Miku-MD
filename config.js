@@ -6,6 +6,7 @@ global.autoReadGc = true
 global.autoReadAll = true
 global.antitags = true
 
+
 global.Owner = ['94778479127']
 global.OwnerNumber = ['94778479127']
 global.ownertag = ['94778479127']
